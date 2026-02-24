@@ -17,6 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+# About Me
+
 I am Yanru Guan, an undergraduate in the [Turing Class](https://cfcs.pku.edu.cn/english/research/turing_program/introduction1/index.htm) at Peking University (EECS ’27), and I am spending Spring 2026 as an exchange student at Carnegie Mellon University’s School of Computer Science.
 
 My research interests lie in intersection of **Economics and Computer Science (EconCS)**. I am broadly interested in the design and analysis of algorithmic systems involving incentives, information asymmetry, and strategic behavior. I am fortunate to be advised by Prof. [Xiaotie Deng](https://cfcs.pku.edu.cn/english/people/faculty/xiaotiedeng/index.htm) at Peking University.
