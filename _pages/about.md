@@ -17,42 +17,83 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am Yanru Guan, an undergraduate in the [Turing Class](https://cfcs.pku.edu.cn/english/research/turing_program/introduction1/index.htm) at Peking University (EECS ’27), and I am spending Spring 2026 as an exchange student at Carnegie Mellon University’s School of Computer Science.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interests lie in **algorithmic game theory** and **computational economics**, with a focus on auction theory and mechanism design. I am particularly interested in understanding how incentives, information, and strategic behavior interact in algorithmic systems. I am fortunate to be advised by Prof. [Xiaotie Deng](https://cfcs.pku.edu.cn/english/people/faculty/xiaotiedeng/index.htm) at Peking University.
 
+I served as a Teaching Assistant for various courses at both Carnegie Mellon University and Peking University, and I am honored to have had worked with Profs [Yang Liu](https://yangpliu.github.io/), [Richard Peng](https://www.cs.cmu.edu/~yangp/) and [Shaofeng Jiang](https://www.shaofengjiang.cn/).
+
+Beyond research, I have been deeply engaged in competitive programming for more than a decade. I placed **5th at the ICPC World Finals 2025** and was awarded a Gold Medal and the Best Female Player distinction at National Olympiad in Informatics (NOI) 2022.
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2026.01*: &nbsp;🎉🎉 I am on a one-semester exchange at the **Carnegie Mellon University** School of Computer Science (SCS). 
+- *2025.12*: Attended **WINE 2025** at Rutgers University and presented a talk.
+- *2025.11*: Honored to be recoginzed as **Rising Star** in Computer Science Research by School of Computer Science, Peking University.
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2026.1 ~ 2026.5(Expected)*, Exchange student, School of Computer Science, **Carnegie Mellon University**. 
+- *2023.8 ~ 2027.6(Expected)*, Undergraduate, **Turing Class**, School of Electronic Engineering & Computer Science(EECS), **Peking University** \\
+    - **GPA 3.908/4.000**
+    - TOEFL 113/120, Speaking 29
+
+# 📝 Publications and Manuscripts
+
+- [Ex-Ante Truthful Distribution-Reporting Mechanisms](https://arxiv.org/abs/2507.04030)，Xiaotie Deng, **Yanru Guan**, Ningyuan Li, Zihe Wang and Jie Zhang，**WINE 2025**
+
+- [On the Coordination of Value-Maximizing Bidders](https://arxiv.org/abs/2511.04993), **Yanru Guan**, Jiahao Zhang, Zhe Feng and Tao Lin, **Under review**
+
+# 📖 Research Experiences
+- *2023.10 ~ Present*, **Research Intern at DaGAME Lab, Peking University** \\
+  - Advised by Prof. [Xiaotie Deng](https://cfcs.pku.edu.cn/english/people/faculty/xiaotiedeng/index.htm).
+
+- *2024.12 ~ 2025.3*, Research Intern at Microsoft Research Asia(MSRA) \\
+  - Advised by [Yuhui Yuan](https://openreview.net/profile?id=~Yuhui_Yuan1).
+
+
+# 💻 Professional Services
+- *2026.1 ~ 2026.5*, **Teaching Assistant at Carnegie Mellon University**\\
+  - 15-451: [Algorithm Design and Analysis](https://www.cs.cmu.edu/~yangp/15-451/) (Prof. [Yang Liu](https://yangpliu.github.io/) & [Richard Peng](https://www.cs.cmu.edu/~yangp/)). 
+
+- *2025.2 ~ 2025.6*, **Teaching Assistant at Peking University** \\
+  - 04831760: Practice of Programming in C&C++(Honor Track) (Prof. [Shaofeng Jiang](https://www.shaofengjiang.cn/)).
+
+- **Conference Reviewer** \\
+  - FOCS 2024, AIMS @ ICLR 2026
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2025.12*, **The 21st Conference on Web and Internet Economics (WINE 2025)** \\
+  Presented paper ”Improved Budget-Feasible Mechanisms for Submodular Valuations: Beating 4 Deterministically in Linear Time”on behalf of the authors Kai Han and Pinyan Lu.
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2025.12*, **China IOI 2026 Training Camp**\\
+  Shared reflections on my personal growth from high school to college, focusing on the transition between the two stages and encouragingyounger students to aim higher and stay true to their interests.
+
+- *2024.05*, **Asia-Paciffc Informatics Olympiad (APIO) 2024**\\
+  Expert lecturer, delivering a lecture to 650 contestants on-site. Lecture topic: “Probability Theory and Probabilistic Methods”.
+
+# 🎖 Selected Honors and Awards
+
+**Research Awards**
+
+- *2025.12* HuanYu Information Quest Award, EECS, Peking University. 
+- *2025.11* **Rising Star** in Computer Science Research, School of Computer Science, Peking University. 
+- *2024.12* **Outstanding Student**, by Center on Frontiers of Computing Studies (CFCS). 
+
+**Scholarships**
+
+- *2025.09* <span style="color: red;">**May Fourth Scholarship**</span>, the highest-level scholarship for Peking University, 125/65k+. 
+- *2024.09* <span style="color: red;">**National Scholarship**</span>, the highest honor for undergraduates in China, top 0.5%. 
+- *2024.09* Merit Student, by Peking University. 
+- *2023.09* Freshman Scholarship, by Peking University. 
+- *2023.09* Dean’s Freshman Scholarship, by School of Electronic Engineering & Computer Science (EECS). 
+
+**Competitive Programming**
+
+- *2025.09* <span style="color: red;">**5th place, The 2025 ICPC World Finals**</span>. 
+- *2024.12* Gold Medal, The 2024 ICPC East-Asia Continent Final Contest. 
+- *2024.11* Champion, The 2024 ICPC Asia Hangzhou Regional Contest. 
+- *2024.03* Gold Medal, The 9th China Collegiate Programming Contest(CCPC) Final Contest. 
+- *2024.01* Gold Medal, The 2023 ICPC East-Asia Continent Final Contest. 
+- *2023.12* Champion, The 2023 ICPC Asia Jinan Regional Contest. 
+- *2023.11* Champion, 2023 China Collegiate Programming Contest (Shenzhen). 
+- *2022.08* Gold Medal, Best Female Player, National Olympiad in Informatics(NOI). 
+
