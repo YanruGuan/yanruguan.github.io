@@ -19,13 +19,13 @@ redirect_from:
 
 # About Me
 
-I am Yanru Guan, an undergraduate in the [Turing Class](https://cfcs.pku.edu.cn/english/research/turing_program/introduction1/index.htm) at Peking University (EECS ’27), and I am spending Spring 2026 as an exchange student at Carnegie Mellon University’s School of Computer Science.
+I am Yanru Guan, an undergraduate student in the [Turing Class](https://cfcs.pku.edu.cn/english/research/turing_program/introduction1/index.htm) at Peking University (EECS’27), currently studying as an exchange student at Carnegie Mellon University's School of Computer Science for Spring 2026. 
 
-I am broadly interested in the design and analysis of algorithmic systems involving incentives, information asymmetry, and strategic behavior. I am fortunate to be advised by Prof. [Xiaotie Deng](https://cfcs.pku.edu.cn/english/people/faculty/xiaotiedeng/index.htm) at Peking University. My research to date has focused on auction theory, particularly mechanism design and the design and analysis of auto-bidding algorithms.
+My interests lie in the design and analysis of algorithmic systems that involving incentives, information asymmetry, and strategic behavior. I am fortunate to be advised by Prof. [Xiaotie Deng](https://cfcs.pku.edu.cn/english/people/faculty/xiaotiedeng/index.htm) at Peking University. My research to date has primarily focused on auction theory, specifically mechanism design and the design and analysis of auto-bidding algorithms.
 
-I served as a Teaching Assistant for various courses at both Carnegie Mellon University and Peking University, and I am honored to have had worked with Profs [Yang Liu](https://yangpliu.github.io/), [Richard Peng](https://www.cs.cmu.edu/~yangp/) and [Shaofeng Jiang](https://www.shaofengjiang.cn/).
+I have served as a Teaching Assistant for various courses at both Carnegie Mellon University and Peking University, honored to work alongside Profs [Yang Liu](https://yangpliu.github.io/), [Richard Peng](https://www.cs.cmu.edu/~yangp/) and [Shaofeng Jiang](https://www.shaofengjiang.cn/).
 
-Beyond research, I have been deeply engaged in competitive programming for more than a decade. I placed **5th at the ICPC World Finals 2025** and was awarded a Gold Medal and the Best Female Player distinction at National Olympiad in Informatics (NOI) 2022.
+In addition to research, I have been actively involved in competitive programming for over a decade. I achieved **5th place at the ICPC World Finals 2025** and was awarded a Gold Medal and the Best Female Player distinction at the National Olympiad in Informatics (NOI) 2022.
 
 # 🔥 News
 - *2026.01*: &nbsp;🎉🎉 I am on a one-semester exchange at the **Carnegie Mellon University** School of Computer Science (SCS). 
