@@ -28,6 +28,7 @@ I have served as a Teaching Assistant for various courses at both Carnegie Mello
 In addition to research, I have been actively involved in competitive programming for over a decade. I achieved **5th place at the ICPC World Finals 2025** and was awarded a Gold Medal and the Best Female Player distinction at the National Olympiad in Informatics (NOI) 2022.
 
 # 🔥 News
+- *2026.03*: &nbsp;🎉🎉 One paper accepted by [**ICLR 2026 Workshop AIMS**](https://alimama-tech.github.io/aims-2026/).
 - *2026.01*: &nbsp;🎉🎉 I am on a one-semester exchange at the **Carnegie Mellon University** School of Computer Science (SCS). 
 - *2025.12*: Attended **WINE 2025** at Rutgers University and presented a talk.
 - *2025.11*: Honored to be recoginzed as **Rising Star** in Computer Science Research by School of Computer Science, Peking University.
@@ -35,7 +36,7 @@ In addition to research, I have been actively involved in competitive programmin
 # 📖 Educations
 - *2026.1 ~ 2026.5(Expected)*, Exchange student, School of Computer Science, **Carnegie Mellon University**. 
 - *2023.8 ~ 2027.6(Expected)*, Undergraduate, **Turing Class**, School of Electronic Engineering & Computer Science(EECS), **Peking University** \\
-    - **GPA 3.908/4.000**
+    - **GPA 3.913/4.000**
     - TOEFL 113/120, Speaking 29
 
 # 📝 Publications and Manuscripts
