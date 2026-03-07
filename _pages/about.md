@@ -70,7 +70,7 @@ In addition to research, I have been actively involved in competitive programmin
   Presented paper "Ex-Ante Truthful Distribution-Reporting Mechanisms".
 
 - *2025.12*, **The 21st Conference on Web and Internet Economics (WINE 2025)** \\
-  Presented paper ”Improved Budget-Feasible Mechanisms for Submodular Valuations: Beating 4 Deterministically in Linear Time”on behalf of the authors Kai Han and Pinyan Lu.
+  Presented paper "Improved Budget-Feasible Mechanisms for Submodular Valuations: Beating 4 Deterministically in Linear Time" on behalf of the authors Kai Han and Pinyan Lu.
 
 - *2025.12*, **China IOI 2026 Training Camp**\\
   Shared reflections on my personal growth from high school to college, focusing on the transition between the two stages and encouragingyounger students to aim higher and stay true to their interests.
