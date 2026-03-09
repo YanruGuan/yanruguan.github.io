@@ -34,8 +34,8 @@ In addition to research, I have been actively involved in competitive programmin
 - *2025.11*: Honored to be recoginzed as **Rising Star** in Computer Science Research by School of Computer Science, Peking University.
 
 # 📖 Educations
-- *2026.1 ~ 2026.5(Expected)*, Exchange student, School of Computer Science, **Carnegie Mellon University**. 
-- *2023.8 ~ 2027.6(Expected)*, Undergraduate, **Turing Class**, School of Electronic Engineering & Computer Science(EECS), **Peking University** \\
+- *2026.1 ~ 2026.5 (Expected)*, Exchange student, School of Computer Science, **Carnegie Mellon University**. 
+- *2023.8 ~ 2027.6 (Expected)*, Undergraduate, **Turing Class**, School of Electronic Engineering & Computer Science(EECS), **Peking University** \\
     - **GPA 3.913/4.000**
     - TOEFL 113/120, Speaking 29
 
@@ -51,7 +51,7 @@ In addition to research, I have been actively involved in competitive programmin
 - *2023.10 ~ Present*, **Research Intern at DaGAME Lab, Peking University** \\
   - Advised by Prof. [Xiaotie Deng](https://cfcs.pku.edu.cn/english/people/faculty/xiaotiedeng/index.htm).
 
-- *2024.12 ~ 2025.3*, Research Intern at Microsoft Research Asia(MSRA) \\
+- *2024.12 ~ 2025.3*, Research Intern at Microsoft Research Asia (MSRA) \\
   - Advised by [Yuhui Yuan](https://openreview.net/profile?id=~Yuhui_Yuan1).
 
 
@@ -99,9 +99,9 @@ In addition to research, I have been actively involved in competitive programmin
 - *2025.09* <span style="color: red;">**5th place, The 2025 ICPC World Finals**</span>. 
 - *2024.12* Gold Medal, The 2024 ICPC East-Asia Continent Final Contest. 
 - *2024.11* Champion, The 2024 ICPC Asia Hangzhou Regional Contest. 
-- *2024.03* Gold Medal, The 9th China Collegiate Programming Contest(CCPC) Final Contest. 
+- *2024.03* Gold Medal, The 9th China Collegiate Programming Contest (CCPC) Final Contest. 
 - *2024.01* Gold Medal, The 2023 ICPC East-Asia Continent Final Contest. 
 - *2023.12* Champion, The 2023 ICPC Asia Jinan Regional Contest. 
 - *2023.11* Champion, 2023 China Collegiate Programming Contest (Shenzhen). 
-- *2022.08* Gold Medal, Best Female Player, National Olympiad in Informatics(NOI). 
+- *2022.08* Gold Medal, Best Female Player, National Olympiad in Informatics (NOI). 
 
