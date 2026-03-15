@@ -66,6 +66,9 @@ In addition to research, I have been actively involved in competitive programmin
   - FOCS 2024, AIMS @ ICLR 2026
 
 # 💬 Invited Talks
+- *2026.03*, **Northwestern CS Theory Seminar** \\
+  Presented paper "Ex-Ante Truthful Distribution-Reporting Mechanisms".
+
 - *2026.02*, **CMU Econ-CS Seminar** \\
   Presented paper "Ex-Ante Truthful Distribution-Reporting Mechanisms".
 
