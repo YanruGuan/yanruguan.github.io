@@ -60,7 +60,7 @@ In addition to research, I have been actively involved in competitive programmin
 
 # 💻 Professional Services
 - *2026.3*, **Trainer at 2026 ICPC North America Programming Camp (NAPC)**
-  - Also joined ICPC Live as a guest commentator and conducted a post-contest interview for the 2026 ICPC North America Championship.
+  - Also joined ICPC Live as a guest commentator and conducted the post-contest interview for the 2026 ICPC North America Championship.
 
 - *2026.1 ~ 2026.5*, **Teaching Assistant at Carnegie Mellon University**\\
   - 15-451: [Algorithm Design and Analysis](https://www.cs.cmu.edu/~yangp/15-451/) (Prof. [Yang Liu](https://yangpliu.github.io/) & [Richard Peng](https://www.cs.cmu.edu/~yangp/)). 
