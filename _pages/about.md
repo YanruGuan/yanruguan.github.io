@@ -60,7 +60,7 @@ and joined ICPC Live as a guest commentator.
 
 
 # 💻 Professional Services
-- *2026.3*, **Trainer at [North America Programming Camp (NAPC)](https://nac.icpc.global/napc-trainers/)**
+- *2026.3*, **Trainer at 2026 ICPC North America Programming Camp (NAPC)**
 
 - *2026.1 ~ 2026.5*, **Teaching Assistant at Carnegie Mellon University**\\
   - 15-451: [Algorithm Design and Analysis](https://www.cs.cmu.edu/~yangp/15-451/) (Prof. [Yang Liu](https://yangpliu.github.io/) & [Richard Peng](https://www.cs.cmu.edu/~yangp/)). 
