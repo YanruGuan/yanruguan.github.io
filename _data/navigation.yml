@@ -4,21 +4,21 @@ main:
     url: "/#about-me"
 
   - title: "News"
-    url: "/#-news"
+    url: "/#news"
 
   - title: "Educations"
-    url: "/#-educations"
+    url: "/#educations"
 
   - title: "Publications"
-    url: "/#-publications-and-manuscripts"
+    url: "/#publications-and-manuscripts"
 
   - title: "Research"
-    url: "/#-research-experiences"
+    url: "/#research-experiences"
 
   - title: "Invited Talks"
-    url: "/#-invited-talks"
+    url: "/#invited-talks"
 
   - title: "Honors and Awards"
-    url: "/#-selected-honors-and-awards"
+    url: "/#selected-honors-and-awards"
 
 
