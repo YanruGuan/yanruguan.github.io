@@ -29,7 +29,13 @@ In addition to research, I have been actively involved in competitive programmin
 
 Here is my [CV](yanru_cv 202604.pdf).
 
-# 🔥 News
+<div style="
+  margin-bottom: 10px;
+  line-height: 1;
+  padding: 0;
+">&nbsp;</div>
+
+# News
 - *2026.03*: Attended the 2026 ICPC North America Championship and served as a trainer at 
 [North America Programming Camp (NAPC)](https://nac.icpc.global/napc-trainers/).
 - *2026.03*: Invited talk at Northwestern CS Theory Seminar.
@@ -38,13 +44,25 @@ Here is my [CV](yanru_cv 202604.pdf).
 - *2025.12*: Attended **WINE 2025** at Rutgers University and presented a talk.
 - *2025.11*: Honored to be recoginzed as **Rising Star** in Computer Science Research by School of Computer Science, Peking University.
 
-# 📖 Educations
+<div style="
+  margin-bottom: 5px;
+  line-height: 0.5;
+  padding: 0;
+">&nbsp;</div>
+
+# Educations
 - *2026.1 ~ 2026.5 (Expected)*, Exchange student, School of Computer Science, **Carnegie Mellon University**. 
 - *2023.8 ~ 2027.6 (Expected)*, Undergraduate, **Turing Class**, School of Electronic Engineering & Computer Science (EECS), **Peking University** \\
     - **GPA 3.913/4.000**
     - TOEFL 113/120, Speaking 29
 
-# 📝 Publications and Manuscripts
+<div style="
+  margin-bottom: 5px;
+  line-height: 0.5;
+  padding: 0;
+">&nbsp;</div>
+
+# Publications and Manuscripts
 
 - [Selling Data as a Digital Good with Scaling Valuations](https://openreview.net/forum?id=Ew04f1iN1K), Xiaotie Deng, **Yanru Guan**, Ningyuan Li, Zihe Wang, Wu Xin and Jie Zhang, **ICLR 2026 Workshop AIMS**
 
@@ -52,15 +70,26 @@ Here is my [CV](yanru_cv 202604.pdf).
 
 - [On the Coordination of Value-Maximizing Bidders](https://arxiv.org/abs/2511.04993), **Yanru Guan**, Jiahao Zhang, Zhe Feng and Tao Lin, **Under review**
 
-# 📖 Research Experiences
+<div style="
+  margin-bottom: 5px;
+  line-height: 0.5;
+  padding: 0;
+">&nbsp;</div>
+
+# Research Experiences
 - *2023.10 ~ Present*, **Research Intern at DaGAME Lab, Peking University** \\
   - Advised by Prof. [Xiaotie Deng](https://cfcs.pku.edu.cn/english/people/faculty/xiaotiedeng/index.htm).
 
 - *2024.12 ~ 2025.3*, Research Intern at Microsoft Research Asia (MSRA) \\
   - Advised by [Yuhui Yuan](https://openreview.net/profile?id=~Yuhui_Yuan1).
 
+<div style="
+  margin-bottom: 5px;
+  line-height: 0.5;
+  padding: 0;
+">&nbsp;</div>
 
-# 💻 Professional Services
+# Professional Services
 - *2026.3*, **Trainer at 2026 ICPC North America Programming Camp (NAPC)**
   - Also joined ICPC Live as a guest commentator and conducted the post-contest interview for the 2026 ICPC North America Championship.
 
@@ -73,7 +102,13 @@ Here is my [CV](yanru_cv 202604.pdf).
 - **Conference Reviewer** \\
   - FOCS 2024, AIMS @ ICLR 2026
 
-# 💬 Invited Talks
+<div style="
+  margin-bottom: 5px;
+  line-height: 0.5;
+  padding: 0;
+">&nbsp;</div>
+
+# Invited Talks
 - *2026.03*, **Northwestern CS Theory Seminar** \\
   Presented paper "Ex-Ante Truthful Distribution-Reporting Mechanisms".
 
@@ -89,7 +124,13 @@ Here is my [CV](yanru_cv 202604.pdf).
 - *2024.05*, **Asia-Paciffc Informatics Olympiad (APIO) 2024**\\
   Expert lecturer, delivering a lecture to 650 contestants on-site. Lecture topic: “Probability Theory and Probabilistic Methods”.
 
-# 🎖 Selected Honors and Awards
+<div style="
+  margin-bottom: 5px;
+  line-height: 0.5;
+  padding: 0;
+">&nbsp;</div>
+
+# Selected Honors and Awards
 
 **Research Awards**
 
