@@ -36,7 +36,7 @@ Here is my [CV](yanru_cv 202604.pdf).
 ">&nbsp;</div>
 
 # News
-- *2026.04*: &nbsp;🎉🎉 Two papers accepted by [**ICML 2026**].
+- *2026.04*: &nbsp;🎉🎉 Two papers accepted by **ICML 2026**.
 - *2026.03*: Attended the 2026 ICPC North America Championship and served as a trainer at 
 [North America Programming Camp (NAPC)](https://nac.icpc.global/napc-trainers/).
 - *2026.03*: Invited talk at Northwestern CS Theory Seminar.
@@ -66,22 +66,23 @@ Here is my [CV](yanru_cv 202604.pdf).
 # Publications and Manuscripts
 
 
-<div class='paper-box'>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box' style="transform: scale(1.05); transform-origin: left top;">
+<div class='paper-box-text' markdown="1" style="font-size: 1.1em;">
 <div class="badge">ICML 2026</div>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
 <div class='paper-box-text' markdown="1">
 [On the Coordination of Value-Maximizing Bidders](https://arxiv.org/abs/2511.04993) \\
-**Yanru Guan**, Jiahao Zhang, Zhe Feng and Tao Lin
-Also accepted by 2026 Marketplace Innovation Workshop
+**Yanru Guan**, Jiahao Zhang, Zhe Feng and Tao Lin\\
+
+Also accepted by **2026 Marketplace Innovation Workshop**
 
 </div>
 </div>
 
-<div class='paper-box'>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box' style="transform: scale(1.05); transform-origin: left top;">
+<div class='paper-box-text' markdown="1" style="font-size: 1.1em;">
 <div class="badge">ICML 2026</div>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
@@ -89,12 +90,13 @@ Also accepted by 2026 Marketplace Innovation Workshop
 <div class='paper-box-text' markdown="1">
 [Selling Data as a Digital Good with Scaling Valuations](https://openreview.net/forum?id=Ew04f1iN1K)\\
 Xiaotie Deng, **Yanru Guan**, Ningyuan Li, Zihe Wang, Wu Xin and Jie Zhang\\
-Also accepted by ICLR 2026 Workshop AIMS
+
+Also accepted by [**ICLR 2026 Workshop AIMS**](https://alimama-tech.github.io/aims-2026/)
 </div>
 </div>
 
-<div class='paper-box'>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box' style="transform: scale(1.05); transform-origin: left top;">
+<div class='paper-box-text' markdown="1" style="font-size: 1.1em;">
 <div class="badge">WINE 2025</div>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
