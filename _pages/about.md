@@ -21,7 +21,7 @@ redirect_from:
 
 I am Yanru Guan, an undergraduate student in the [Turing Class](https://cfcs.pku.edu.cn/english/research/turing_program/introduction1/index.htm) at Peking University (EECS’27), currently studying as an exchange student at Carnegie Mellon University's School of Computer Science for Spring 2026. 
 
-My interests lie in the design and analysis of algorithmic systems that involving incentives, information asymmetry, and strategic behavior. I am fortunate to be advised by Prof. [Xiaotie Deng](https://cfcs.pku.edu.cn/english/people/faculty/xiaotiedeng/index.htm) at Peking University. My research to date has primarily focused on auction theory, specifically mechanism design and the design and analysis of auto-bidding algorithms.
+My interests lie in the design and analysis of algorithmic systems that involve incentives, information asymmetry, and strategic behavior. I am fortunate to be advised by Prof. [Xiaotie Deng](https://cfcs.pku.edu.cn/english/people/faculty/xiaotiedeng/index.htm) at Peking University. My research to date has primarily focused on auction theory, specifically mechanism design and the design and analysis of auto-bidding algorithms.
 
 I have served as a Teaching Assistant for various courses at both Carnegie Mellon University and Peking University, honored to work alongside Profs [Yang Liu](https://yangpliu.github.io/), [Richard Peng](https://www.cs.cmu.edu/~yangp/) and [Shaofeng Jiang](https://www.shaofengjiang.cn/).
 
