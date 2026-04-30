@@ -36,10 +36,11 @@ Here is my [CV](yanru_cv 202604.pdf).
 ">&nbsp;</div>
 
 # News
+- *2026.04*: &nbsp;🎉🎉 Two papers accepted by [**ICML 2026**].
 - *2026.03*: Attended the 2026 ICPC North America Championship and served as a trainer at 
 [North America Programming Camp (NAPC)](https://nac.icpc.global/napc-trainers/).
 - *2026.03*: Invited talk at Northwestern CS Theory Seminar.
-- *2026.03*: &nbsp;🎉🎉 One paper accepted by [**ICLR 2026 Workshop AIMS**](https://alimama-tech.github.io/aims-2026/).
+<!-- - *2026.03*: &nbsp;🎉🎉 One paper accepted by [**ICLR 2026 Workshop AIMS**](https://alimama-tech.github.io/aims-2026/). -->
 - *2026.01*: &nbsp;🎉🎉 I am on a one-semester exchange at the **Carnegie Mellon University** School of Computer Science (SCS). 
 - *2025.12*: Attended **WINE 2025** at Rutgers University and presented a talk.
 - *2025.11*: Honored to be recoginzed as **Rising Star** in Computer Science Research by School of Computer Science, Peking University.
@@ -67,25 +68,28 @@ Here is my [CV](yanru_cv 202604.pdf).
 
 <div class='paper-box'>
 <div class='paper-box-text' markdown="1">
-<div class="badge">Under review</div>
+<div class="badge">ICML 2026</div>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
 <div class='paper-box-text' markdown="1">
-[On the Coordination of Value-Maximizing Bidders](https://arxiv.org/abs/2511.04993), **Yanru Guan**, Jiahao Zhang, Zhe Feng and Tao Lin
+[On the Coordination of Value-Maximizing Bidders](https://arxiv.org/abs/2511.04993) \\
+**Yanru Guan**, Jiahao Zhang, Zhe Feng and Tao Lin
+Also accepted by 2026 Marketplace Innovation Workshop
 
 </div>
 </div>
 
 <div class='paper-box'>
 <div class='paper-box-text' markdown="1">
-<div class="badge">ICLR 2026 Workshop AIMS</div>
+<div class="badge">ICML 2026</div>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
 <div class='paper-box-text' markdown="1">
-[Selling Data as a Digital Good with Scaling Valuations](https://openreview.net/forum?id=Ew04f1iN1K), Xiaotie Deng, **Yanru Guan**, Ningyuan Li, Zihe Wang, Wu Xin, Jie Zhang,
-
+[Selling Data as a Digital Good with Scaling Valuations](https://openreview.net/forum?id=Ew04f1iN1K)\\
+Xiaotie Deng, **Yanru Guan**, Ningyuan Li, Zihe Wang, Wu Xin and Jie Zhang\\
+Also accepted by ICLR 2026 Workshop AIMS
 </div>
 </div>
 
@@ -96,7 +100,8 @@ Here is my [CV](yanru_cv 202604.pdf).
 </div>
 
 <div class='paper-box-text' markdown="1" width="100%">
-[Ex-Ante Truthful Distribution-Reporting Mechanisms](https://arxiv.org/abs/2507.04030)，Xiaotie Deng, **Yanru Guan**, Ningyuan Li, Zihe Wang and Jie Zhang
+[Ex-Ante Truthful Distribution-Reporting Mechanisms](https://arxiv.org/abs/2507.04030)\\
+Xiaotie Deng, **Yanru Guan**, Ningyuan Li, Zihe Wang and Jie Zhang
 
 <span style="color: red;">**Talk invited at CMU and Northwestern University**</span>
 </div>
