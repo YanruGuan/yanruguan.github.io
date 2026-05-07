@@ -53,9 +53,9 @@ Here is my [CV](yanru_cv 202605.pdf).
 
 # Educations
 - *2026.1 ~ 2026.5 (Expected)*, Exchange student, School of Computer Science, **Carnegie Mellon University**. \\
-    - **GPA 4.000/4.000**
+    - GPA 4.0/4.0
 - *2023.8 ~ 2027.6 (Expected)*, Undergraduate, **Turing Class**, School of Electronic Engineering & Computer Science (EECS), **Peking University** \\
-    - **GPA 3.913/4.000**
+    - **GPA 3.913/4.0**
     - TOEFL 113/120, Speaking 29
 
 <div style="
