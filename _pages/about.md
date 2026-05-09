@@ -106,7 +106,7 @@ Also accepted by [**ICLR 2026 Workshop AIMS**](https://alimama-tech.github.io/ai
 [Ex-Ante Truthful Distribution-Reporting Mechanisms](https://arxiv.org/abs/2507.04030)\\
 Xiaotie Deng, **Yanru Guan**, Ningyuan Li, Zihe Wang and Jie Zhang
 
-<span style="color: red;">**Talk invited at CMU and Northwestern University**</span>
+<span style="color: red;">**Talk invited at CMU, Northwestern and Harvard University**</span>
 </div>
 </div>
 
