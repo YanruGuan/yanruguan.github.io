@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yanru Guan"
-description              : "CMU CS Exchange Student"
+description              : "CMU SCS Exchange Student"
 repository               : "YanruGuan/yanruguan.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,7 +24,7 @@ author:
   name             : "Yanru Guan"
   avatar           : "images/512x512.png"
   bio              : "EECS '27, Peking University"
-  location         : "Pittsburgh, United States"
+  location         : "Beijing, China"
   employer         : 
   pubmed           : 
   googlescholar    : 
