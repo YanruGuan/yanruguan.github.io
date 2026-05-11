@@ -157,6 +157,9 @@ Xiaotie Deng, **Yanru Guan**, Ningyuan Li, Zihe Wang and Jie Zhang
 ">&nbsp;</div>
 
 # Invited Talks
+- *2026.05*, **Harvard Econ-CS Seminar** \\
+  Presented paper "Ex-Ante Truthful Distribution-Reporting Mechanisms".
+
 - *2026.03*, **Northwestern CS Theory Seminar** \\
   Presented paper "Ex-Ante Truthful Distribution-Reporting Mechanisms".
 
