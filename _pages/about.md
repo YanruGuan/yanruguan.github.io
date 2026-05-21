@@ -57,6 +57,7 @@ Here is my [CV](yanru_cv 202605.pdf).
     - TOEFL 113/120, Speaking 29
 - *2026.1 ~ 2026.5*, Exchange student, School of Computer Science, **Carnegie Mellon University**. \\
     - GPA 4.0/4.0
+    - Dean's List with High Honors in the School of Computer Science
 
 <div style="
   margin-bottom: 5px;
