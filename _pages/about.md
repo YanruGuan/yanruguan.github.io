@@ -70,7 +70,7 @@ Here is my [CV](yanru_cv 202606.pdf).
 
 <div class='paper-box' style="transform: scale(1.05); transform-origin: left top;">
 <div class='paper-box-text' markdown="1" style="font-size: 1.1em;">
-<div class="badge" style="font-size: 1.05em; min-width: 9rem; padding: .35rem 1.4rem; text-align: center;">ICML 2026</div>
+<div class="badge">ICML 2026</div>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
@@ -78,9 +78,9 @@ Here is my [CV](yanru_cv 202606.pdf).
 **On the Coordination of Value-Maximizing Bidders** \\
 **Yanru Guan**, Jiahao Zhang, Zhe Feng and Tao Lin
 
-<div style="display: flex; flex-wrap: wrap; justify-content: flex-end; gap: .65rem; margin: .8rem 0 .9rem; width: 100%;">
-  <a href="https://arxiv.org/pdf/2511.04993" style="display: inline-flex; align-items: center; justify-content: center; min-width: 6.4rem; padding: .58rem .9rem; border: 2px solid #00369f; border-radius: 6px; color: #00369f; background-color: #eef4ff; font-family: Arial, sans-serif; font-size: .95em; font-weight: 700; line-height: 1.1; text-decoration: none;">PDF <i class="fas fa-file-pdf" aria-hidden="true" style="margin-left: .5rem; font-size: 1.15em;"></i></a>
-  <a href="/pdfs/Autobid/slides.pdf" style="display: inline-flex; align-items: center; justify-content: center; min-width: 6.4rem; padding: .58rem .9rem; border: 2px solid #00369f; border-radius: 6px; color: #00369f; background-color: #eef4ff; font-family: Arial, sans-serif; font-size: .95em; font-weight: 700; line-height: 1.1; text-decoration: none;">Slides <i class="fas fa-chalkboard" aria-hidden="true" style="margin-left: .5rem; font-size: 1.15em;"></i></a>
+<div style="display: flex; flex-wrap: wrap; gap: .45rem; margin: .6rem 0 .7rem;">
+  <a href="https://arxiv.org/pdf/2511.04993" style="display: inline-flex; align-items: center; justify-content: center; min-width: 4.8rem; padding: .38rem .75rem; border: 1px solid #00369f; border-radius: 4px; color: #00369f; background-color: #eef4ff; font-family: Arial, sans-serif; font-size: .78em; font-weight: 700; line-height: 1.2; text-decoration: none;">PDF</a>
+  <a href="/pdfs/Autobid/slides.pdf" style="display: inline-flex; align-items: center; justify-content: center; min-width: 4.8rem; padding: .38rem .75rem; border: 1px solid #00369f; border-radius: 4px; color: #00369f; background-color: #eef4ff; font-family: Arial, sans-serif; font-size: .78em; font-weight: 700; line-height: 1.2; text-decoration: none;">Slides</a>
 </div>
 
 Also accepted by **2026 Marketplace Innovation Workshop**
@@ -90,7 +90,7 @@ Also accepted by **2026 Marketplace Innovation Workshop**
 
 <div class='paper-box' style="transform: scale(1.05); transform-origin: left top;">
 <div class='paper-box-text' markdown="1" style="font-size: 1.1em;">
-<div class="badge" style="font-size: 1.05em; min-width: 9rem; padding: .35rem 1.4rem; text-align: center;">ICML 2026</div>
+<div class="badge">ICML 2026</div>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
@@ -98,9 +98,9 @@ Also accepted by **2026 Marketplace Innovation Workshop**
 **Selling Data as a Digital Good with Scaling Valuations**\\
 Ningyuan Li$^*$, **Yanru Guan$^*$**, Xiaotie Deng, Zihe Wang, and Jie Zhang
 
-<div style="display: flex; flex-wrap: wrap; justify-content: flex-end; gap: .65rem; margin: .8rem 0 .9rem; width: 100%;">
-  <a href="/pdfs/Data/ICML_camera_ready.pdf" style="display: inline-flex; align-items: center; justify-content: center; min-width: 6.4rem; padding: .58rem .9rem; border: 2px solid #00369f; border-radius: 6px; color: #00369f; background-color: #eef4ff; font-family: Arial, sans-serif; font-size: .95em; font-weight: 700; line-height: 1.1; text-decoration: none;">PDF <i class="fas fa-file-pdf" aria-hidden="true" style="margin-left: .5rem; font-size: 1.15em;"></i></a>
-  <!-- <a href="https://openreview.net/forum?id=Ew04f1iN1K" style="display: inline-flex; align-items: center; justify-content: center; min-width: 6.4rem; padding: .58rem .9rem; border: 2px solid #00369f; border-radius: 6px; color: #00369f; background-color: #eef4ff; font-family: Arial, sans-serif; font-size: .95em; font-weight: 700; line-height: 1.1; text-decoration: none;">OpenReview</a> -->
+<div style="display: flex; flex-wrap: wrap; gap: .45rem; margin: .6rem 0 .7rem;">
+  <a href="/pdfs/Data/ICML_camera_ready.pdf" style="display: inline-flex; align-items: center; justify-content: center; min-width: 4.8rem; padding: .38rem .75rem; border: 1px solid #00369f; border-radius: 4px; color: #00369f; background-color: #eef4ff; font-family: Arial, sans-serif; font-size: .78em; font-weight: 700; line-height: 1.2; text-decoration: none;">PDF</a>
+  <!-- <a href="https://openreview.net/forum?id=Ew04f1iN1K" style="display: inline-flex; align-items: center; justify-content: center; min-width: 4.8rem; padding: .38rem .75rem; border: 1px solid #00369f; border-radius: 4px; color: #00369f; background-color: #eef4ff; font-family: Arial, sans-serif; font-size: .78em; font-weight: 700; line-height: 1.2; text-decoration: none;">OpenReview</a> -->
 </div>
 
 Also accepted by [**ICLR 2026 Workshop AIMS**](https://alimama-tech.github.io/aims-2026/)
@@ -109,7 +109,7 @@ Also accepted by [**ICLR 2026 Workshop AIMS**](https://alimama-tech.github.io/ai
 
 <div class='paper-box' style="transform: scale(1.05); transform-origin: left top;">
 <div class='paper-box-text' markdown="1" style="font-size: 1.1em;">
-<div class="badge" style="font-size: 1.05em; min-width: 9rem; padding: .35rem 1.4rem; text-align: center;">WINE 2025</div>
+<div class="badge">WINE 2025</div>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
@@ -117,9 +117,9 @@ Also accepted by [**ICLR 2026 Workshop AIMS**](https://alimama-tech.github.io/ai
 **Ex-Ante Truthful Distribution-Reporting Mechanisms**\\
 Xiaotie Deng, **Yanru Guan**, Ningyuan Li, Zihe Wang and Jie Zhang (alphabetical)
 
-<div style="display: flex; flex-wrap: wrap; justify-content: flex-end; gap: .65rem; margin: .8rem 0 .9rem; width: 100%;">
-  <a href="https://arxiv.org/pdf/2507.04030" style="display: inline-flex; align-items: center; justify-content: center; min-width: 6.4rem; padding: .58rem .9rem; border: 2px solid #00369f; border-radius: 6px; color: #00369f; background-color: #eef4ff; font-family: Arial, sans-serif; font-size: .95em; font-weight: 700; line-height: 1.1; text-decoration: none;">PDF <i class="fas fa-file-pdf" aria-hidden="true" style="margin-left: .5rem; font-size: 1.15em;"></i></a>
-  <a href="/pdfs/Distribution-report/slides.pdf" style="display: inline-flex; align-items: center; justify-content: center; min-width: 6.4rem; padding: .58rem .9rem; border: 2px solid #00369f; border-radius: 6px; color: #00369f; background-color: #eef4ff; font-family: Arial, sans-serif; font-size: .95em; font-weight: 700; line-height: 1.1; text-decoration: none;">Slides <i class="fas fa-chalkboard" aria-hidden="true" style="margin-left: .5rem; font-size: 1.15em;"></i></a>
+<div style="display: flex; flex-wrap: wrap; gap: .45rem; margin: .6rem 0 .7rem;">
+  <a href="https://arxiv.org/pdf/2507.04030" style="display: inline-flex; align-items: center; justify-content: center; min-width: 4.8rem; padding: .38rem .75rem; border: 1px solid #00369f; border-radius: 4px; color: #00369f; background-color: #eef4ff; font-family: Arial, sans-serif; font-size: .78em; font-weight: 700; line-height: 1.2; text-decoration: none;">PDF</a>
+  <a href="/pdfs/Distribution-report/slides.pdf" style="display: inline-flex; align-items: center; justify-content: center; min-width: 4.8rem; padding: .38rem .75rem; border: 1px solid #00369f; border-radius: 4px; color: #00369f; background-color: #eef4ff; font-family: Arial, sans-serif; font-size: .78em; font-weight: 700; line-height: 1.2; text-decoration: none;">Slides</a>
 </div>
 
 <span style="color: red;">**Talk invited at CMU, Northwestern and Harvard University**</span>
