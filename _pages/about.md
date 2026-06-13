@@ -75,8 +75,12 @@ Here is my [CV](yanru_cv 202606.pdf).
 </div>
 
 <div class='paper-box-text' markdown="1">
-[On the Coordination of Value-Maximizing Bidders](https://arxiv.org/abs/2511.04993) \\
+**On the Coordination of Value-Maximizing Bidders** \\
 **Yanru Guan**, Jiahao Zhang, Zhe Feng and Tao Lin
+
+<div style="display: flex; flex-wrap: wrap; gap: .45rem; margin: .6rem 0 .7rem;">
+  <a href="https://arxiv.org/abs/2511.04993" style="display: inline-flex; align-items: center; justify-content: center; min-width: 4.8rem; padding: .38rem .75rem; border: 1px solid #00369f; border-radius: 4px; color: #00369f; background-color: #eef4ff; font-family: Arial, sans-serif; font-size: .78em; font-weight: 700; line-height: 1.2; text-decoration: none;">PDF</a>
+</div>
 
 Also accepted by **2026 Marketplace Innovation Workshop**
 
@@ -90,8 +94,13 @@ Also accepted by **2026 Marketplace Innovation Workshop**
 </div>
 
 <div class='paper-box-text' markdown="1">
-[Selling Data as a Digital Good with Scaling Valuations](https://openreview.net/forum?id=Ew04f1iN1K)\\
+**Selling Data as a Digital Good with Scaling Valuations**\\
 Ningyuan Li$^*$, **Yanru Guan$^*$**, Xiaotie Deng, Zihe Wang, and Jie Zhang
+
+<div style="display: flex; flex-wrap: wrap; gap: .45rem; margin: .6rem 0 .7rem;">
+  <a href="/pdfs/Data/ICML_camera_ready.pdf" style="display: inline-flex; align-items: center; justify-content: center; min-width: 4.8rem; padding: .38rem .75rem; border: 1px solid #00369f; border-radius: 4px; color: #00369f; background-color: #eef4ff; font-family: Arial, sans-serif; font-size: .78em; font-weight: 700; line-height: 1.2; text-decoration: none;">PDF</a>
+  <a href="https://openreview.net/forum?id=Ew04f1iN1K" style="display: inline-flex; align-items: center; justify-content: center; min-width: 4.8rem; padding: .38rem .75rem; border: 1px solid #00369f; border-radius: 4px; color: #00369f; background-color: #eef4ff; font-family: Arial, sans-serif; font-size: .78em; font-weight: 700; line-height: 1.2; text-decoration: none;">OpenReview</a>
+</div>
 
 Also accepted by [**ICLR 2026 Workshop AIMS**](https://alimama-tech.github.io/aims-2026/)
 </div>
@@ -104,8 +113,13 @@ Also accepted by [**ICLR 2026 Workshop AIMS**](https://alimama-tech.github.io/ai
 </div>
 
 <div class='paper-box-text' markdown="1" width="100%">
-[Ex-Ante Truthful Distribution-Reporting Mechanisms](https://arxiv.org/abs/2507.04030)\\
+**Ex-Ante Truthful Distribution-Reporting Mechanisms**\\
 Xiaotie Deng, **Yanru Guan**, Ningyuan Li, Zihe Wang and Jie Zhang (alphabetical)
+
+<div style="display: flex; flex-wrap: wrap; gap: .45rem; margin: .6rem 0 .7rem;">
+  <a href="https://arxiv.org/abs/2507.04030" style="display: inline-flex; align-items: center; justify-content: center; min-width: 4.8rem; padding: .38rem .75rem; border: 1px solid #00369f; border-radius: 4px; color: #00369f; background-color: #eef4ff; font-family: Arial, sans-serif; font-size: .78em; font-weight: 700; line-height: 1.2; text-decoration: none;">PDF</a>
+  <a href="/pdfs/Distribution-report/slides.pdf" style="display: inline-flex; align-items: center; justify-content: center; min-width: 4.8rem; padding: .38rem .75rem; border: 1px solid #00369f; border-radius: 4px; color: #00369f; background-color: #eef4ff; font-family: Arial, sans-serif; font-size: .78em; font-weight: 700; line-height: 1.2; text-decoration: none;">Slides</a>
+</div>
 
 <span style="color: red;">**Talk invited at CMU, Northwestern and Harvard University**</span>
 </div>
