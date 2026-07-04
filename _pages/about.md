@@ -38,7 +38,6 @@ Here is my [CV](yanru_cv 202606.pdf).
 ">&nbsp;</div>
 
 # News
-- *2026.05*: New preprint on human-AI decision-making under correlated features is available on [arXiv](https://arxiv.org/abs/2606.20628).
 - *2026.04*: &nbsp;🎉🎉 Two papers accepted by **ICML 2026**.
 - *2026.03*: Attended the 2026 ICPC North America Championship and served as a trainer at 
 [North America Programming Camp (NAPC)](https://nac.icpc.global/napc-trainers/).
