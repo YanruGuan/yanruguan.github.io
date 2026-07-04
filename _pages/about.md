@@ -21,7 +21,7 @@ redirect_from:
 
 I am Yanru Guan, an undergraduate student in the [Turing Class](https://cfcs.pku.edu.cn/english/research/turing_program/introduction1/index.htm) at Peking University (EECS’27). During Spring 2026, I had a wonderful time studying as an exchange student at Carnegie Mellon University's School of Computer Science.
 
-My interests lie in the design and analysis of algorithmic systems that involve incentives, information asymmetry, and strategic behavior. I am fortunate to be advised by Prof. [Xiaotie Deng](https://cfcs.pku.edu.cn/english/people/faculty/xiaotiedeng/index.htm) at Peking University. My research to date has primarily focused on auction theory, specifically mechanism design and the design and analysis of auto-bidding algorithms.
+My interests lie in the design and analysis of algorithmic systems that involve incentives, information asymmetry, and strategic behavior. I am fortunate to be advised by Prof. [Xiaotie Deng](https://cfcs.pku.edu.cn/english/people/faculty/xiaotiedeng/index.htm) at Peking University. My research to date has primarily focused on auction theory, specifically mechanism design and the design and analysis of auto-bidding algorithms. During my exchange at Carnegie Mellon University, I was advised by Prof. Fei Fang on human-AI decision-making, studying how AI assistance should be designed when human users make decisions under uncertainty.
 
 I have served as a Teaching Assistant for various courses at both Carnegie Mellon University and Peking University, honored to work alongside Profs [Yang Liu](https://yangpliu.github.io/), [Richard Peng](https://www.cs.cmu.edu/~yangp/) and [Shaofeng Jiang](https://www.shaofengjiang.cn/).
 
@@ -36,6 +36,7 @@ Here is my [CV](yanru_cv 202606.pdf).
 ">&nbsp;</div>
 
 # News
+- *2026.05*: New preprint on human-AI decision-making under correlated features is available on [arXiv](https://arxiv.org/abs/2606.20628).
 - *2026.04*: &nbsp;🎉🎉 Two papers accepted by **ICML 2026**.
 - *2026.03*: Attended the 2026 ICPC North America Championship and served as a trainer at 
 [North America Programming Camp (NAPC)](https://nac.icpc.global/napc-trainers/).
@@ -67,6 +68,24 @@ Here is my [CV](yanru_cv 202606.pdf).
 
 # Publications and Manuscripts
 
+
+<div class='paper-box' style="transform: scale(1.05); transform-origin: left top;">
+<div class='paper-box-text' markdown="1" style="font-size: 1.1em;">
+<div class="badge">Under review</div>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</div>
+
+<div class='paper-box-text' markdown="1">
+**Human Decision-Making with AI Assistance under Correlated Features**\\
+**Yanru Guan**, Naveen Raman and Fei Fang
+
+<div style="display: flex; flex-wrap: wrap; gap: .45rem; margin: .6rem 0 .7rem;">
+  <a href="https://arxiv.org/pdf/2606.20628" style="display: inline-flex; align-items: center; justify-content: center; min-width: 4.8rem; padding: .38rem .75rem; border: 1px solid #00369f; border-radius: 4px; color: #00369f; background-color: #eef4ff; font-family: Arial, sans-serif; font-size: .78em; font-weight: 700; line-height: 1.2; text-decoration: none;">PDF</a>
+  <a href="https://arxiv.org/abs/2606.20628" style="display: inline-flex; align-items: center; justify-content: center; min-width: 4.8rem; padding: .38rem .75rem; border: 1px solid #00369f; border-radius: 4px; color: #00369f; background-color: #eef4ff; font-family: Arial, sans-serif; font-size: .78em; font-weight: 700; line-height: 1.2; text-decoration: none;">arXiv</a>
+</div>
+
+</div>
+</div>
 
 <div class='paper-box' style="transform: scale(1.05); transform-origin: left top;">
 <div class='paper-box-text' markdown="1" style="font-size: 1.1em;">
