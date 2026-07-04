@@ -165,6 +165,9 @@ Xiaotie Deng, **Yanru Guan**, Ningyuan Li, Zihe Wang and Jie Zhang (alphabetical
 - *2023.10 ~ Present*, **Research Intern at DaGAME Lab, Peking University** \\
   - Advised by Prof. [Xiaotie Deng](https://cfcs.pku.edu.cn/english/people/faculty/xiaotiedeng/index.htm).
 
+- *2026.1 ~ 2026.5*, Research Intern at Carnegie Mellon University (CMU) \\
+  - Advised by Prof. [Fei Fang](https://feifang.info/).
+
 - *2024.12 ~ 2025.3*, Research Intern at Microsoft Research Asia (MSRA) \\
   - Advised by [Yuhui Yuan](https://openreview.net/profile?id=~Yuhui_Yuan1).
 
