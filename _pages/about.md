@@ -19,9 +19,11 @@ redirect_from:
 
 # About Me
 
-I am Yanru Guan, an undergraduate student in the [Turing Class](https://cfcs.pku.edu.cn/english/research/turing_program/introduction1/index.htm) at Peking University (EECS’27). During Spring 2026, I had a wonderful time studying as an exchange student at Carnegie Mellon University's School of Computer Science.
+I am Yanru Guan, an undergraduate student in the [Turing Class](https://cfcs.pku.edu.cn/english/research/turing_program/introduction1/index.htm) at Peking University (EECS’27).
 
-My interests lie in the design and analysis of algorithmic systems that involve incentives, information asymmetry, and strategic behavior. I am fortunate to be advised by Prof. [Xiaotie Deng](https://cfcs.pku.edu.cn/english/people/faculty/xiaotiedeng/index.htm) at Peking University. My research to date has primarily focused on auction theory, specifically mechanism design and the design and analysis of auto-bidding algorithms. During my exchange at Carnegie Mellon University, I was advised by Prof. Fei Fang on human-AI decision-making, studying how AI assistance should be designed when human users make decisions under uncertainty.
+My interests lie in the design and analysis of algorithmic systems that involve incentives, information asymmetry, and strategic behavior. I am fortunate to be advised by Prof. [Xiaotie Deng](https://cfcs.pku.edu.cn/english/people/faculty/xiaotiedeng/index.htm) at Peking University. My research to date has primarily focused on auction theory, specifically mechanism design and the design and analysis of auto-bidding algorithms.
+
+During Spring 2026, I had a wonderful time studying as an exchange student at Carnegie Mellon University's School of Computer Science, where I was advised by Prof. [Fei Fang](https://feifang.info/) on human-AI decision-making, studying how AI assistance should be designed when human users make decisions under uncertainty.
 
 I have served as a Teaching Assistant for various courses at both Carnegie Mellon University and Peking University, honored to work alongside Profs [Yang Liu](https://yangpliu.github.io/), [Richard Peng](https://www.cs.cmu.edu/~yangp/) and [Shaofeng Jiang](https://www.shaofengjiang.cn/).
 
@@ -80,7 +82,6 @@ Here is my [CV](yanru_cv 202606.pdf).
 **Yanru Guan**, Naveen Raman and Fei Fang
 
 <div style="display: flex; flex-wrap: wrap; gap: .45rem; margin: .6rem 0 .7rem;">
-  <a href="https://arxiv.org/pdf/2606.20628" style="display: inline-flex; align-items: center; justify-content: center; min-width: 4.8rem; padding: .38rem .75rem; border: 1px solid #00369f; border-radius: 4px; color: #00369f; background-color: #eef4ff; font-family: Arial, sans-serif; font-size: .78em; font-weight: 700; line-height: 1.2; text-decoration: none;">PDF</a>
   <a href="https://arxiv.org/abs/2606.20628" style="display: inline-flex; align-items: center; justify-content: center; min-width: 4.8rem; padding: .38rem .75rem; border: 1px solid #00369f; border-radius: 4px; color: #00369f; background-color: #eef4ff; font-family: Arial, sans-serif; font-size: .78em; font-weight: 700; line-height: 1.2; text-decoration: none;">arXiv</a>
 </div>
 
@@ -98,7 +99,8 @@ Here is my [CV](yanru_cv 202606.pdf).
 **Yanru Guan**, Jiahao Zhang, Zhe Feng and Tao Lin
 
 <div style="display: flex; flex-wrap: wrap; gap: .45rem; margin: .6rem 0 .7rem;">
-  <a href="https://arxiv.org/pdf/2511.04993" style="display: inline-flex; align-items: center; justify-content: center; min-width: 4.8rem; padding: .38rem .75rem; border: 1px solid #00369f; border-radius: 4px; color: #00369f; background-color: #eef4ff; font-family: Arial, sans-serif; font-size: .78em; font-weight: 700; line-height: 1.2; text-decoration: none;">PDF</a>
+  <a href="https://arxiv.org/abs/2511.04993" style="display: inline-flex; align-items: center; justify-content: center; min-width: 4.8rem; padding: .38rem .75rem; border: 1px solid #00369f; border-radius: 4px; color: #00369f; background-color: #eef4ff; font-family: Arial, sans-serif; font-size: .78em; font-weight: 700; line-height: 1.2; text-decoration: none;">arXiv</a>
+  <a href="/pdfs/Autobid/poster.pdf" style="display: inline-flex; align-items: center; justify-content: center; min-width: 4.8rem; padding: .38rem .75rem; border: 1px solid #00369f; border-radius: 4px; color: #00369f; background-color: #eef4ff; font-family: Arial, sans-serif; font-size: .78em; font-weight: 700; line-height: 1.2; text-decoration: none;">Poster</a>
   <a href="/pdfs/Autobid/slides.pdf" style="display: inline-flex; align-items: center; justify-content: center; min-width: 4.8rem; padding: .38rem .75rem; border: 1px solid #00369f; border-radius: 4px; color: #00369f; background-color: #eef4ff; font-family: Arial, sans-serif; font-size: .78em; font-weight: 700; line-height: 1.2; text-decoration: none;">Slides</a>
 </div>
 
@@ -119,6 +121,7 @@ Ningyuan Li$^*$, **Yanru Guan$^*$**, Xiaotie Deng, Zihe Wang, and Jie Zhang
 
 <div style="display: flex; flex-wrap: wrap; gap: .45rem; margin: .6rem 0 .7rem;">
   <a href="/pdfs/Data/ICML_camera_ready.pdf" style="display: inline-flex; align-items: center; justify-content: center; min-width: 4.8rem; padding: .38rem .75rem; border: 1px solid #00369f; border-radius: 4px; color: #00369f; background-color: #eef4ff; font-family: Arial, sans-serif; font-size: .78em; font-weight: 700; line-height: 1.2; text-decoration: none;">PDF</a>
+  <a href="/pdfs/Data/poster.pdf" style="display: inline-flex; align-items: center; justify-content: center; min-width: 4.8rem; padding: .38rem .75rem; border: 1px solid #00369f; border-radius: 4px; color: #00369f; background-color: #eef4ff; font-family: Arial, sans-serif; font-size: .78em; font-weight: 700; line-height: 1.2; text-decoration: none;">Poster</a>
   <!-- <a href="https://openreview.net/forum?id=Ew04f1iN1K" style="display: inline-flex; align-items: center; justify-content: center; min-width: 4.8rem; padding: .38rem .75rem; border: 1px solid #00369f; border-radius: 4px; color: #00369f; background-color: #eef4ff; font-family: Arial, sans-serif; font-size: .78em; font-weight: 700; line-height: 1.2; text-decoration: none;">OpenReview</a> -->
 </div>
 
@@ -137,7 +140,7 @@ Also accepted by [**ICLR 2026 Workshop AIMS**](https://alimama-tech.github.io/ai
 Xiaotie Deng, **Yanru Guan**, Ningyuan Li, Zihe Wang and Jie Zhang (alphabetical)
 
 <div style="display: flex; flex-wrap: wrap; gap: .45rem; margin: .6rem 0 .7rem;">
-  <a href="https://arxiv.org/pdf/2507.04030" style="display: inline-flex; align-items: center; justify-content: center; min-width: 4.8rem; padding: .38rem .75rem; border: 1px solid #00369f; border-radius: 4px; color: #00369f; background-color: #eef4ff; font-family: Arial, sans-serif; font-size: .78em; font-weight: 700; line-height: 1.2; text-decoration: none;">PDF</a>
+  <a href="https://arxiv.org/abs/2507.04030" style="display: inline-flex; align-items: center; justify-content: center; min-width: 4.8rem; padding: .38rem .75rem; border: 1px solid #00369f; border-radius: 4px; color: #00369f; background-color: #eef4ff; font-family: Arial, sans-serif; font-size: .78em; font-weight: 700; line-height: 1.2; text-decoration: none;">arXiv</a>
   <a href="/pdfs/Distribution-report/slides.pdf" style="display: inline-flex; align-items: center; justify-content: center; min-width: 4.8rem; padding: .38rem .75rem; border: 1px solid #00369f; border-radius: 4px; color: #00369f; background-color: #eef4ff; font-family: Arial, sans-serif; font-size: .78em; font-weight: 700; line-height: 1.2; text-decoration: none;">Slides</a>
 </div>
 
