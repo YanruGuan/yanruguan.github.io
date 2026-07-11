@@ -38,6 +38,7 @@ Here is my [CV](yanru_cv 202606.pdf).
 ">&nbsp;</div>
 
 # News
+- *2026.07*: Attended ICML 2026 at Seoul, Korea and presented two posters.
 - *2026.04*: &nbsp;🎉🎉 Two papers accepted by **ICML 2026**.
 - *2026.03*: Attended the 2026 ICPC North America Championship and served as a trainer at 
 [North America Programming Camp (NAPC)](https://nac.icpc.global/napc-trainers/).
@@ -210,7 +211,7 @@ Xiaotie Deng, **Yanru Guan**, Ningyuan Li, Zihe Wang and Jie Zhang (alphabetical
   Presented paper "Improved Budget-Feasible Mechanisms for Submodular Valuations: Beating 4 Deterministically in Linear Time" on behalf of the authors Kai Han and Pinyan Lu.
 
 - *2025.12*, **China IOI 2026 Training Camp**\\
-  Shared reflections on my personal growth from high school to college, focusing on the transition between the two stages and encouragingyounger students to aim higher and stay true to their interests.
+  Shared reflections on my personal growth from high school to college, focusing on the transition between the two stages and encouraging younger students to aim higher and stay true to their interests.
 
 - *2024.05*, **Asia-Paciffc Informatics Olympiad (APIO) 2024**\\
   Expert lecturer, delivering a lecture to 650 contestants on-site. Lecture topic: “Probability Theory and Probabilistic Methods”.
