@@ -85,7 +85,7 @@ Here is my [CV](yanru_cv 202606.pdf).
   <a href="https://arxiv.org/abs/2606.20628" style="display: inline-flex; align-items: center; justify-content: center; min-width: 4.8rem; padding: .38rem .75rem; border: 1px solid #00369f; border-radius: 4px; color: #00369f; background-color: #eef4ff; font-family: Arial, sans-serif; font-size: .78em; font-weight: 700; line-height: 1.2; text-decoration: none;">arXiv</a>
 </div>
 
-Also accepted by **[Human-AI Complementarity Workshop: Dynamic Alignment](https://www.cmu.edu/ai-sdm/research/human-ai-workshop/index.html)**
+Accepted by **[Human-AI Complementarity Workshop: Dynamic Alignment](https://www.cmu.edu/ai-sdm/research/human-ai-workshop/index.html)**
 
 </div>
 </div>
