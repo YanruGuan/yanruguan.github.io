@@ -238,9 +238,10 @@ Xiaotie Deng, **Yanru Guan**, Ningyuan Li, Zihe Wang and Jie Zhang (alphabetical
 **Scholarships**
 
 - *2026.05* Dean’s List with High Honors in the School of Computer Science, Carnegie Mellon University
-- *2025.09* <span style="color: red;">**May Fourth Scholarship**</span>, the highest-level scholarship for Peking University, 125/65k+. 
-- *2024.09* <span style="color: red;">**National Scholarship**</span>, the highest honor for undergraduates in China, top 0.5%. 
-- *2024.09* Merit Student, by Peking University. 
+- *2025.12* <span style="color: red;">**May 4th Scholarship**</span>, the highest-level scholarship for Peking University, 125/65k+. 
+- *2025.12* Merit Student, by Peking University.
+- *2024.12* <span style="color: red;">**National Scholarship**</span>, the highest honor for undergraduates in China, top 0.5%. 
+- *2024.12* Merit Student, by Peking University. 
 - *2023.09* Freshman Scholarship, by Peking University. 
 - *2023.09* Dean’s Freshman Scholarship, by School of Electronic Engineering & Computer Science (EECS). 
 
