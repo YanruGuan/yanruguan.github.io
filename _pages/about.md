@@ -231,7 +231,7 @@ Xiaotie Deng, **Yanru Guan**, Ningyuan Li, Zihe Wang and Jie Zhang (alphabetical
 
 **Research Awards**
 
-- *2025.12* HuanYu Information Quest Award, EECS, Peking University. 
+- *2025.12* HuanYu Information Quest Award, the highest Honor for Undergraduate Research Innovation, School of EECS at Peking University.
 - *2025.11* **Rising Star** in Computer Science Research, School of Computer Science, Peking University. 
 - *2024.12* **Outstanding Student**, by Center on Frontiers of Computing Studies (CFCS). 
 
