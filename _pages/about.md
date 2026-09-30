@@ -200,6 +200,9 @@ Xiaotie Deng, **Yanru Guan**, Ningyuan Li, Zihe Wang and Jie Zhang (alphabetical
 ">&nbsp;</div>
 
 # Invited Talks
+- *2026.09*, **CMU Econ-CS Seminar** \\
+  Presented paper "Selling Data as a Digital Good with Scaling Valuations".
+
 - *2026.08*, **City University of Hong Kong CS Colloquiums** \\
   Presented talk "Auctions Under Uncertainty: Strategic Distribution Reporting and Data Markets".
 
