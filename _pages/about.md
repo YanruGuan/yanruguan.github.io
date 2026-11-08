@@ -164,7 +164,7 @@ Xiaotie Deng, **Yanru Guan**, Ningyuan Li, Zihe Wang and Jie Zhang (alphabetical
   padding: 0;
 ">&nbsp;</div>
 
-# Research Experiences
+# Research Experience (Selected)
 - *2023.10 ~ Present*, **Research Intern at DaGAME Lab, Peking University** \\
   - Advised by Prof. [Xiaotie Deng](https://cfcs.pku.edu.cn/english/people/faculty/xiaotiedeng/index.htm).
 
