@@ -191,7 +191,7 @@ Xiaotie Deng, **Yanru Guan**, Ningyuan Li, Zihe Wang and Jie Zhang (alphabetical
   - 04831760: Practice of Programming in C&C++(Honor Track) (Prof. [Shaofeng Jiang](https://www.shaofengjiang.cn/)).
 
 - **Conference Reviewer** \\
-  - FOCS 2024, AIMS @ ICLR 2026
+  - WINE 2026, AIMS @ ICLR 2026, FOCS 2024
 
 <div style="
   margin-bottom: 5px;
