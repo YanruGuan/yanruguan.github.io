@@ -238,9 +238,10 @@ Xiaotie Deng, **Yanru Guan**, Ningyuan Li, Zihe Wang and Jie Zhang (alphabetical
 - *2025.11* **Rising Star** in Computer Science Research, School of Computer Science, Peking University. 
 - *2024.12* **Outstanding Student**, by Center on Frontiers of Computing Studies (CFCS). 
 
-**Scholarships**
+**Scholarships and Awards**
 
-- *2026.05* Dean’s List with High Honors in the School of Computer Science, Carnegie Mellon University
+- *2026.11* Person of the Year -- Candidate (Selection in Progress), Peking University.
+- *2026.05* Dean’s List with High Honors in the School of Computer Science, Carnegie Mellon University.
 - *2025.12* <span style="color: red;">**May 4th Scholarship**</span>, the highest-level scholarship for Peking University, 125/65k+. 
 - *2025.12* Merit Student, by Peking University.
 - *2024.12* <span style="color: red;">**National Scholarship**</span>, the highest honor for undergraduates in China, top 0.5%. 
@@ -248,7 +249,7 @@ Xiaotie Deng, **Yanru Guan**, Ningyuan Li, Zihe Wang and Jie Zhang (alphabetical
 - *2023.09* Freshman Scholarship, by Peking University. 
 - *2023.09* Dean’s Freshman Scholarship, by School of Electronic Engineering & Computer Science (EECS). 
 
-**Competitive Programming**
+**Competitive Programming (Selected)**
 
 - *2025.09* <span style="color: red;">**5th place, The 2025 ICPC World Finals**</span>. 
 - *2024.12* Gold Medal, The 2024 ICPC East-Asia Continent Final Contest. 
@@ -258,4 +259,3 @@ Xiaotie Deng, **Yanru Guan**, Ningyuan Li, Zihe Wang and Jie Zhang (alphabetical
 - *2023.12* Champion, The 2023 ICPC Asia Jinan Regional Contest. 
 - *2023.11* Champion, 2023 China Collegiate Programming Contest (Shenzhen). 
 - *2022.08* Gold Medal, Best Female Player, National Olympiad in Informatics (NOI). 
-
