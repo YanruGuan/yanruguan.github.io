@@ -57,7 +57,7 @@ Here is my [CV](yanru_cv.pdf).
 # Educations
 - *2023.8 ~ 2027.6 (Expected)*, Undergraduate, **Turing Class**, School of Electronic Engineering & Computer Science (EECS), **Peking University** \\
     - **GPA 3.913/4.000**
-    - TOEFL 113/120, Speaking 29
+    - TOEFL 118/120 | 6.0/6.0, all four sections
 - *2026.1 ~ 2026.5*, Exchange student, School of Computer Science, **Carnegie Mellon University**. \\
     - GPA 4.0/4.0
     - Dean's List with High Honors in the School of Computer Science
