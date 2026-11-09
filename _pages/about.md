@@ -240,7 +240,7 @@ Xiaotie Deng, **Yanru Guan**, Ningyuan Li, Zihe Wang and Jie Zhang (alphabetical
 
 **Scholarships and Awards**
 
-- *2026.11* Person of the Year -- Candidate (Selection in Progress), Peking University.
+- *2026.11* Person of the Year -- Candidate (Selection in Progress), Peking University, 38/65k+.
 - *2026.05* Dean’s List with High Honors in the School of Computer Science, Carnegie Mellon University.
 - *2025.12* <span style="color: red;">**May 4th Scholarship**</span>, the highest-level scholarship for Peking University, 125/65k+. 
 - *2025.12* Merit Student, by Peking University.
