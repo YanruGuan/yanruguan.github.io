@@ -46,7 +46,7 @@ Here is my [CV](yanru_cv.pdf).
 <!-- - *2026.03*: &nbsp;🎉🎉 One paper accepted by [**ICLR 2026 Workshop AIMS**](https://alimama-tech.github.io/aims-2026/). -->
 - *2026.01*: &nbsp;🎉🎉 I am on a one-semester exchange at the **Carnegie Mellon University** School of Computer Science (SCS). 
 - *2025.12*: Attended **WINE 2025** at Rutgers University and presented a talk.
-- *2025.11*: Honored to be recoginzed as **Rising Star** in Computer Science Research by School of Computer Science, Peking University.
+- *2025.11*: Honored to be recognized as **Rising Star** in Computer Science Research by School of Computer Science, Peking University.
 
 <div style="
   margin-bottom: 5px;
@@ -54,7 +54,7 @@ Here is my [CV](yanru_cv.pdf).
   padding: 0;
 ">&nbsp;</div>
 
-# Educations
+# Education
 - *2023.8 ~ 2027.6 (Expected)*, Undergraduate, **Turing Class**, School of Electronic Engineering & Computer Science (EECS), **Peking University** \\
     - **GPA 3.913/4.000**
     - TOEFL 118/120 &#124; 6.0/6.0, all four sections
@@ -221,7 +221,7 @@ Xiaotie Deng, **Yanru Guan**, Ningyuan Li, Zihe Wang and Jie Zhang (alphabetical
 - *2025.12*, **China IOI 2026 Training Camp**\\
   Shared reflections on my personal growth from high school to college, focusing on the transition between the two stages and encouraging younger students to aim higher and stay true to their interests.
 
-- *2024.05*, **Asia-Paciffc Informatics Olympiad (APIO) 2024**\\
+- *2024.05*, **Asia-Pacific Informatics Olympiad (APIO) 2024**\\
   Expert lecturer, delivering a lecture to 650 contestants on-site. Lecture topic: “Probability Theory and Probabilistic Methods”.
 
 <div style="
